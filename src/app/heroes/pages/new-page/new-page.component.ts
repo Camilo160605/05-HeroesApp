@@ -26,7 +26,7 @@ export class NewPageComponent implements OnInit{
   })
 
   public publishers = [
-    { id: 'Dc Comics',desc: 'Dc - Comics'},
+    { id: 'DC Comics',desc: 'Dc - Comics'},
     {id:'Marvel Comics',desc : 'Marvel - Comics'}
   ]
   constructor(
@@ -51,8 +51,6 @@ export class NewPageComponent implements OnInit{
           return this.router.navigateByUrl('/');
         }
         this.heroForm.reset(hero)
-        console.log(hero);
-        
         return
       })
     }
