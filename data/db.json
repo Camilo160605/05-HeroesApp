@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "usuario": "John Doe",
+      "user": "John Doe",
       "email": "john.due@gmail.com"
     }
   ],
@@ -166,15 +166,6 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
-    },
-    {
-      "id": "MFUTwrM",
-      "superhero": "Camilo",
-      "publisher": "Marvel Comics",
-      "alter_ego": "ZampaTeste",
-      "first_appearance": "IPT",
-      "characters": "IPTDeveloper",
-      "alt_img": "https://upload.wikimedia.org/wikipedia/en/0/0e/Anime_Godzilla_3.jpg"
     }
   ]
 }
